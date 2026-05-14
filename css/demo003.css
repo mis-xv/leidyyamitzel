@@ -1716,10 +1716,11 @@ display: flex;
   border-color: #a0ac60;
   height: 45px;
   font-size: 15px;
-  font-weight: bold;
+  
   display:flex;
   justify-content: center;
   align-items: center;
+  z-index: 9999;
 }
 
 
